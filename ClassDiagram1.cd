@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab12_4.MyList&lt;T&gt;">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAACAAAABAAABAAAAgQAAAAAAAAEBAEAAABAABA=</HashCode>
+      <FileName>MyList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab12_4.Point&lt;T&gt;">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAANAAAAAAAAAAAAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab12_4.MyCollection&lt;T&gt;" HideInheritanceLine="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="lab12_4.MyCollection&lt;T&gt;.MyEnumerator&lt;T&gt;">
+        <TypeIdentifier>
+          <NewMemberFileName>MyCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAABBAAAAAAAAAAAAAIAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
